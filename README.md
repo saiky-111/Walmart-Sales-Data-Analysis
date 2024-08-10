@@ -110,7 +110,6 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 9. Which day fo the week has the best avg ratings?
 10. Which day of the week has the best average ratings per branch?
 
-
 # Revenue and Profit Calculations
 
 In this section, we will calculate the Cost of Goods Sold (COGS), Value Added Tax (VAT), gross sales, gross income, and gross margin percentage using the given formulas.
@@ -161,6 +160,7 @@ For the given data:
 - **VAT**: $16.03
 - **Total (Gross Sales)**: $336.56
 - **Gross Margin Percentage**: 4.76%
+
 
 
 
