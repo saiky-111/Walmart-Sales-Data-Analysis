@@ -213,6 +213,62 @@ For the given data:
 - **Gross Margin Percentage**: 4.76%
 
 
+Formulas
+
+    COGS (Cost of Goods Sold):
+    COGS=Unit Price×Quantity
+    COGS=Unit Price×Quantity
+
+    VAT (Value Added Tax):
+    VAT=5%×COGS
+    VAT=5%×COGS
+
+    Total (Gross Sales):
+    Total (Gross Sales)=VAT+COGS
+    Total (Gross Sales)=VAT+COGS
+
+    Gross Profit (Gross Income):
+    Gross Profit (Gross Income)=Total (Gross Sales)−COGS
+    Gross Profit (Gross Income)=Total (Gross Sales)−COGS
+
+    Gross Margin Percentage:
+    Gross Margin Percentage=Gross Profit (Gross Income)Total Revenue×100
+    Gross Margin Percentage=Total RevenueGross Profit (Gross Income)​×100
+
+Example Calculation
+
+Given the following data:
+
+    Unit Price: $45.79
+    Quantity: 7
+
+Step-by-Step Calculation:
+
+    Calculate COGS:
+    COGS=45.79×7=320.53
+    COGS=45.79×7=320.53
+
+    Calculate VAT:
+    VAT=5%×320.53=16.0265
+    VAT=5%×320.53=16.0265
+
+    Calculate Total (Gross Sales):
+    Total=16.0265+320.53=336.5565
+    Total=16.0265+320.53=336.5565
+
+    Calculate Gross Margin Percentage:
+    Gross Margin Percentage=16.0265336.5565×100≈4.7619%
+    Gross Margin Percentage=336.556516.0265​×100≈4.7619%
+
+Summary
+
+For the given data:
+
+    COGS: $320.53
+    VAT: $16.03
+    Total (Gross Sales): $336.56
+    Gross Margin Percentage: 4.76%
+
 
 ## Code
 
