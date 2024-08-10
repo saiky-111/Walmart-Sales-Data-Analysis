@@ -142,6 +142,78 @@ $ total = VAT + COGS\\= 16.0265 + 320.53 = $336.5565$
 
 $ \text{Gross Margin Percentage} = \frac{\text{gross income}}{\text{total revenue}}\\=\frac{16.0265}{336.5565} = 0.047619\\\approx 4.7619\% $
 
+
+# Revenue and Profit Calculations
+
+In this section, we will calculate the Cost of Goods Sold (COGS), Value Added Tax (VAT), gross sales, gross income, and gross margin percentage using the given formulas.
+
+### Formulas
+
+1. **COGS (Cost of Goods Sold):**
+   \[
+   \text{COGS} = \text{Unit Price} \times \text{Quantity}
+   \]
+
+2. **VAT (Value Added Tax):**
+   \[
+   \text{VAT} = 5\% \times \text{COGS}
+   \]
+
+3. **Total (Gross Sales):**
+   \[
+   \text{Total (Gross Sales)} = \text{VAT} + \text{COGS}
+   \]
+
+4. **Gross Profit (Gross Income):**
+   \[
+   \text{Gross Profit (Gross Income)} = \text{Total (Gross Sales)} - \text{COGS}
+   \]
+
+5. **Gross Margin Percentage:**
+   \[
+   \text{Gross Margin Percentage} = \frac{\text{Gross Profit (Gross Income)}}{\text{Total Revenue}} \times 100
+   \]
+
+### Example Calculation
+
+Given the following data:
+
+- **Unit Price**: $45.79
+- **Quantity**: 7
+
+#### Step-by-Step Calculation:
+
+1. **Calculate COGS:**
+   \[
+   \text{COGS} = 45.79 \times 7 = 320.53
+   \]
+
+2. **Calculate VAT:**
+   \[
+   \text{VAT} = 5\% \times 320.53 = 16.0265
+   \]
+
+3. **Calculate Total (Gross Sales):**
+   \[
+   \text{Total} = 16.0265 + 320.53 = 336.5565
+   \]
+
+4. **Calculate Gross Margin Percentage:**
+   \[
+   \text{Gross Margin Percentage} = \frac{16.0265}{336.5565} \times 100 \approx 4.7619\%
+   \]
+
+### Summary
+
+For the given data:
+
+- **COGS**: $320.53
+- **VAT**: $16.03
+- **Total (Gross Sales)**: $336.56
+- **Gross Margin Percentage**: 4.76%
+
+
+
 ## Code
 
 For the rest of the code, check the [SQL_queries.sql](https://github.com/Princekrampah/WalmartSalesAnalysis/blob/master/SQL_queries.sql) file
